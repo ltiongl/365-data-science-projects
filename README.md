@@ -24,7 +24,7 @@ In this Career Track Analysis with SQL and Tableau project, you’re tasked with
 
 Please refer [here](https://365datascience.com/projects/career-track-analysis-with-sql-and-tableau/) for further details of project instructions.
 
-[Solution link](
+[Solution link](https://github.com/ltiongl/365-data-science-projects/tree/main/p1-career-track-analysis)
 
 --- 
 
@@ -38,7 +38,7 @@ Please refer [here](https://365datascience.com/projects/career-track-analysis-wi
 
 Please refer [here](https://365datascience.com/projects/newsfeed-analysis-in-tableau/) for further details of project instructions.
 
-[Solution link](
+[Solution link](https://github.com/ltiongl/365-data-science-projects/tree/main/p2-newsfeed-analysis)
 
 --- 
 
@@ -53,7 +53,7 @@ A crucial part is adding several interactive filters allowing users to slice and
 
 Please refer [here](https://365datascience.com/projects/student-onboarding-analysis-in-tableau/) for further details of project instructions.
 
-[Solution link](
+[Solution link](https://github.com/ltiongl/365-data-science-projects/tree/main/p3-student-onboarding-analysis)
 
 ---
 
@@ -67,7 +67,7 @@ Please refer [here](https://365datascience.com/projects/student-onboarding-analy
 
 Please refer [here](https://365datascience.com/projects/checkout-flow-optimization-analysis-with-sql-and-tableau/) for further details of project instructions.
 
-[Solution link](
+[Solution link](https://github.com/ltiongl/365-data-science-projects/tree/main/p4-checkout-flow-optimization-analysis)
 
 ---
 
@@ -86,4 +86,4 @@ Please refer [here](https://365datascience.com/projects/checkout-flow-optimizati
 
 Please refer [here](https://365datascience.com/projects/customer-engagement-analysis-with-sql-and-tableau/) for further details of project instructions.
 
-[Solution link](
+[Solution link](https://github.com/ltiongl/365-data-science-projects/tree/main/p5-customer-engagement-analysis)
