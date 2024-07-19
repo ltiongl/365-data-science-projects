@@ -5,11 +5,11 @@ This repository shows my works, mainly on Tableau for [365 Data Science Projects
 These works are based on `MySQL Workbench 8.0.36` and `Tableau Desktop Public Edition 2024.1.4`
 
 Here's the list of the projects:
-* [Project #1 - Career Track Analysis](https://github.com/ltiongl/365-data-science-projects/edit/main/README.md#project-1---career-track-analysis)
-* [Project #2 - Newfeed Analysis](https://github.com/ltiongl/365-data-science-projects/edit/main/README.md#project-2---newfeed-analysis)
-* [Project #3 - Student Onboarding Analysis](https://github.com/ltiongl/365-data-science-projects/edit/main/README.md#project-3---student-onboarding-analysis)
-* [Project #4 - Checkout Flow Optimization Analysis](https://github.com/ltiongl/365-data-science-projects/edit/main/README.md#project-4---checkout-flow-optimization-analysis)
-* [Project #5 - Customer Engagement Analysis](https://github.com/ltiongl/365-data-science-projects/edit/main/README.md#project-5---customer-engagement-analysis)
+* [Project #1 - Career Track Analysis](https://github.com/ltiongl/365-data-science-projects/blob/main/README.md#project-1---career-track-analysis)
+* [Project #2 - Newfeed Analysis](https://github.com/ltiongl/365-data-science-projects/blob/main/README.md#project-2---newfeed-analysis)
+* [Project #3 - Student Onboarding Analysis](https://github.com/ltiongl/365-data-science-projects/edit/blob/README.md#project-3---student-onboarding-analysis)
+* [Project #4 - Checkout Flow Optimization Analysis](https://github.com/ltiongl/365-data-science-projects/blob/main/README.md#project-4---checkout-flow-optimization-analysis)
+* [Project #5 - Customer Engagement Analysis](https://github.com/ltiongl/365-data-science-projects/edit/blob/README.md#project-5---customer-engagement-analysis)
 
 
 ---
